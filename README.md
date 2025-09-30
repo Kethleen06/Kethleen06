@@ -55,5 +55,6 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 
 ---
 
-## 🎮 Mario no README
+## 🎮 Mario no README (Frames ASCII)
 
+### Frame 1 – Mario parado
