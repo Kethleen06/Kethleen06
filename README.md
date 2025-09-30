@@ -1,18 +1,17 @@
 # Olá! Seja bem-vindo(a) ao meu perfil! 👋🏽
 
-### Meu nome é *Kethleen Gonçalves* e estou aprendendo para me tornar uma Desenvolvedora Front-End! 👩🏽‍💻
+### Meu nome é _Kethleen Gonçalves_ e estou aprendendo para me tornar uma Desenvolvedora Front-End! 👩🏽‍💻
 
-**Atualmente**:
-
-* Participando do curso de jovem aprendiz, desenvolvendo um site para nossa ONG [Raízes Novas](https://raizesnovas.github.io/site/) 🌱;
-* Estudando HTML, CSS e JavaScript com dedicação 👩🏽‍🏫;
+**Atualmente**:  
+* Participando do curso de jovem aprendiz, desenvolvendo um site para nossa ONG [Raízes Novas](https://raizesnovas.github.io/site/) 🌱;  
+* Estudando HTML, CSS e JavaScript com dedicação 👩🏽‍🏫;  
 * Criando projetos para aprimorar minhas habilidades e conhecimentos 🤓.
 
 Descobri a programação recentemente e já sou apaixonada por criar sites que fazem a diferença! 💻✨
 
 ---
 
-### 🚀 Linguagens e Ferramentas
+### 🚀 Linguagens e Ferramentas  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -22,7 +21,7 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 
 ---
 
-### 🌐 Minhas Redes Sociais
+### 🌐 Minhas Redes Sociais  
 
 <div style="display: inline_block">
   <a href="https://br.linkedin.com/in/kethleen-gon%C3%A7alves06">
@@ -35,7 +34,7 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 Estatísticas do GitHub  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kethleen06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160em" />
@@ -44,7 +43,7 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 
 ---
 
-### 📊 Estatísticas Dinâmicas
+### 📊 Estatísticas Dinâmicas  
 
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Kethleen06&theme=tokyonight&data=followers,repositories,stars,commits" />
@@ -53,3 +52,8 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kethleen06&theme=tokyo-night&hide_border=true" alt="Linha do tempo de commits" />
 </div>
+
+---
+
+## 🎮 Mario no README
+
