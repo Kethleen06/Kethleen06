@@ -34,27 +34,12 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 
 ---
 
-### 📈 Estatísticas do GitHub  
+## 🎮 Estatísticas em forma de Jogo – Mario
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kethleen06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kethleen06&layout=compact&langs_count=3&theme=tokyonight&custom_title=Linguagens%20Mais%20Usadas&hide_border=true&hide=php,python,c,c%2B%2B,java,ruby,go,typescript" height="160em" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI2dzZ5aDZ0OXQzOG42N3d2Zjd6eHc0eHZnZ2UycjRpbTYzZHFybSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26Ff2X8Qj0xK3fKuc/giphy.gif" alt="Mario correndo" width="500" />
 </div>
 
----
-
-### 📊 Estatísticas Dinâmicas  
-
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Kethleen06&theme=tokyonight&data=followers,repositories,stars,commits" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kethleen06&theme=tokyo-night&hide_border=true" alt="Linha do tempo de commits" />
-</div>
-
----
-
-## 🎮 Mario no README (Frames ASCII)
-
-### Frame 1 – Mario parado
+> Aqui o Mario representa suas estatísticas do GitHub de forma divertida:  
+> - Cada bloco e monstro pode simbolizar commits, repositórios e contribuições.  
+> - É uma maneira criativa de mostrar que seu perfil é **ativo e dinâmico**, sem usar os gráficos tradicionais.  
