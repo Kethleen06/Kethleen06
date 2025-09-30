@@ -5,7 +5,7 @@
 **Atualmente**:  
 * Participando do curso de jovem aprendiz, desenvolvendo um site para nossa ONG [Raízes Novas](https://raizesnovas.github.io/site/) 🌱;  
 * Estudando HTML, CSS e JavaScript com dedicação 👩🏽‍🏫;  
-* Criando projetos para aprimorar minhas habilidades e conhecimentos 🤓.
+* Criando projetos para aprimorar minhas habilidades e conhecimentos.
 
 Descobri a programação recentemente e já sou apaixonada por criar sites que fazem a diferença! 💻✨
 
@@ -34,10 +34,18 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 
 ---
 
-## 🎮 Estatísticas em forma de Jogo – Mario
+## 📊 Estatísticas Modernas do GitHub
 
-![Mario correndo e pulando](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI2dzZ5aDZ0OXQzOG42N3d2Zjd6eHc0eHZnZ2UycjRpbTYzZHFybSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26Ff2X8Qj0xK3fKuc/giphy.gif)
+### 🔹 Contribuições Recentes
+![Linha do tempo de commits](https://github-readme-activity-graph.cyclic.app/graph?username=Kethleen06&theme=react-dark&hide_border=true)
 
-> Aqui o Mario representa suas estatísticas do GitHub de forma divertida:  
-> - Cada bloco e monstro pode simbolizar commits, repositórios e contribuições.  
-> - É uma maneira criativa de mostrar que seu perfil é **ativo e dinâmico**, sem usar os gráficos tradicionais.  
+### 🔹 Top Linguagens
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kethleen06&layout=compact&theme=tokyonight&langs_count=3&hide_border=true&custom_title=Linguagens%20Mais%20Usadas)
+
+### 🔹 Perfil e Conquistas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kethleen06&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 🔹 Badges de Conquistas
+![Conquistas](https://img.shields.io/badge/Contribuições-Ativas-brightgreen?style=for-the-badge)
+![Projetos](https://img.shields.io/badge/Projetos-Em_andamento-blue?style=for-the-badge)
+![Estudando](https://img.shields.io/badge/Estudo-Constante-orange?style=for-the-badge)
