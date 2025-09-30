@@ -5,7 +5,7 @@
 **Atualmente**:  
 * Participando do curso de jovem aprendiz, desenvolvendo um site para nossa ONG [Raízes Novas](https://raizesnovas.github.io/site/) 🌱;  
 * Estudando HTML, CSS e JavaScript com dedicação 👩🏽‍🏫;  
-* Criando projetos para aprimorar minhas habilidades e conhecimentos.
+* Criando projetos para aprimorar minhas habilidades e conhecimentos 🤓.
 
 Descobri a programação recentemente e já sou apaixonada por criar sites que fazem a diferença! 💻✨
 
@@ -36,14 +36,14 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 
 ## 📊 Estatísticas Modernas do GitHub
 
-### 🔹 Contribuições Recentes
-![Linha do tempo de commits](https://github-readme-activity-graph.cyclic.app/graph?username=Kethleen06&theme=react-dark&hide_border=true)
-
-### 🔹 Top Linguagens
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kethleen06&layout=compact&theme=tokyonight&langs_count=3&hide_border=true&custom_title=Linguagens%20Mais%20Usadas)
-
 ### 🔹 Perfil e Conquistas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kethleen06&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 🔹 Top Linguagens
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kethleen06&layout=compact&theme=tokyonight&langs_count=7&hide_border=true)
+
+### 🔹 Heatmap de Contribuições (via GitHub Readme Stats)
+![Contribuições Recentes](https://github-readme-stats.vercel.app/api?username=Kethleen06&show_icons=false&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true)
 
 ### 🔹 Badges de Conquistas
 ![Conquistas](https://img.shields.io/badge/Contribuições-Ativas-brightgreen?style=for-the-badge)
