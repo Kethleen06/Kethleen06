@@ -34,12 +34,10 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 
 ---
 
-## 🎮 Estatísticas em forma de Jogo – Mario
+## 🎮 Estatísticas
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI2dzZ5aDZ0OXQzOG42N3d2Zjd6eHc0eHZnZ2UycjRpbTYzZHFybSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26Ff2X8Qj0xK3fKuc/giphy.gif" alt="Mario correndo" width="500" />
 </div>
 
-> Aqui o Mario representa suas estatísticas do GitHub de forma divertida:  
-> - Cada bloco e monstro pode simbolizar commits, repositórios e contribuições.  
-> - É uma maneira criativa de mostrar que seu perfil é **ativo e dinâmico**, sem usar os gráficos tradicionais.  
+criativa de mostrar que seu perfil é **ativo e dinâmico**, sem usar os gráficos tradicionais.  
