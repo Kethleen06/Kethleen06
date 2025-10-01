@@ -42,9 +42,6 @@ Descobri a programação recentemente e já sou apaixonada por criar sites que f
 ### 🔹 Top Linguagens
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kethleen06&layout=compact&theme=tokyonight&langs_count=7&hide_border=true)
 
-### 🔹 Heatmap de Contribuições (via GitHub Readme Stats)
-![Contribuições Recentes](https://github-readme-stats.vercel.app/api?username=Kethleen06&show_icons=false&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true)
-
 ### 🔹 Badges de Conquistas
 ![Conquistas](https://img.shields.io/badge/Contribuições-Ativas-brightgreen?style=for-the-badge)
 ![Projetos](https://img.shields.io/badge/Projetos-Em_andamento-blue?style=for-the-badge)
