@@ -1,11 +1,11 @@
-# Olá! Seja bem-vindo(a) ao meu perfil! 👋🏽
+# Olá! Seja bem-vindo(a) ao meu perfil! 
 
 ### Meu nome é _Kethleen Gonçalves_ e estou aprendendo para me tornar uma Desenvolvedora Front-End! 👩🏽‍💻
 
 **Atualmente**:  
-* Participando do curso de jovem aprendiz, desenvolvendo um site para nossa ONG [Raízes Novas](https://raizesnovas.github.io/site/) 🌱;  
-* Estudando HTML, CSS e JavaScript com dedicação 👩🏽‍🏫;  
-* Criando projetos para aprimorar minhas habilidades e conhecimentos 🤓.
+* Participando do curso de jovem aprendiz, desenvolvendo um site para nossa ONG [Raízes Novas](https://raizesnovas.github.io/site/) ;  
+* Estudando HTML, CSS e JavaScript com dedicação;  
+* Criando projetos para aprimorar minhas habilidades e conhecimentos.
 
 Descobri a programação recentemente e já sou apaixonada por criar sites que fazem a diferença! 💻✨
 
