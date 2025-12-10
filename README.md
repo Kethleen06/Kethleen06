@@ -3,12 +3,19 @@
   🚀 Aspirante a Desenvolvedora Front-End | Apaixonada por tecnologia e soluções digitais
 </div>
 💡 Sobre Mim
+
 🎓 Aprendiz em Desenvolvimento Front-End
+
 🏢 Jovem Aprendiz em Administração (Logística) na Atlas Schindler
+
 🌱 Estudando: HTML, CSS, JavaScript e Inglês
+
 💻 Projetos em andamento:
+
 Desenvolvimento do site da ONG Raízes Novas
+
 Criação de projetos próprios para aprimorar habilidades
+
 Busco oportunidades para unir minha experiência organizacional à criação de soluções digitais inovadoras!
 
 🛠️ Tecnologias & Ferramentas
@@ -16,11 +23,6 @@ Busco oportunidades para unir minha experiência organizacional à criação de 
 🌐 Onde me encontrar
 <div align="center"> <a href="https://br.linkedin.com/in/kethleen-gon%C3%A7alves06" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/Kethleen06" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div>
 
-🏆 Minhas Conquistas
-🚩	Badge	Descrição
-🟢	Contribuições Ativas	Sempre contribuindo em projetos
-🔵	Projetos em Andamento	Novos projetos em desenvolvimento
-🟠	Estudo Constante	Aprendizado contínuo
 <div align="center">
 ✨ Obrigada por visitar meu perfil! Vamos nos conectar e criar juntos! ✨
 
