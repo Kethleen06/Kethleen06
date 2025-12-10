@@ -1,9 +1,6 @@
-<div align="center">
-  
 👋 Olá, eu sou a Kethleen Gonçalves!
-
 🚀 Aspirante a Desenvolvedora Front-End | Apaixonada por tecnologia e soluções digitais
-</div>
+
 💡 Sobre Mim
 
 🎓 Aprendiz em Desenvolvimento Front-End
