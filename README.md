@@ -3,9 +3,9 @@
 
 💡 Sobre Mim
 
-🎓 Aprendiz em Desenvolvimento Front-End
+🎓 Estágiaria em infraestrutura e estudante de Sistemas de Informação
 
-🏢 Jovem Aprendiz em Administração (Logística) na Atlas Schindler
+🏢 Estágiaria em infraestrutura na Extreme Group
 
 🌱 Estudando: HTML, CSS, JavaScript e Inglês
 
